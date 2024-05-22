@@ -33,3 +33,8 @@ server.listen(PORT, () => {
 	connectToMongoDB();
 	console.log(`Server Running on port ${PORT}`);
 });
+// DB_MONGO_URI=mongodb://Raja-Rehman:raja0000@ac-bcs4bsg-shard-00-00.h12kepo.mongodb.net:27017,ac-bcs4bsg-shard-00-01.h12kepo.mongodb.net:27017,ac-bcs4bsg-shard-00-02.h12kepo.mongodb.net:27017/?ssl=true&replicaSet=atlas-8p93ab-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
+// NODE_ENV=develpment
+// PORT=8000
+// SOCKET_ENV=https://chat-app-x4fw.onrender.com
+// JWT_SECRET=dexo2n4i7dtn8sri8do
